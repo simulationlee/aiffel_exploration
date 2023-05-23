@@ -17,7 +17,7 @@ PRT(PeerReviewTemplate)
 
 ### [X]코드가 에러를 유발할 가능성이 있나요?  
 - 아니오. 코드에 에러를 유발할 가능성이 있는 곳이 없습니다.
-![Uploading image.png…]()
+![image](https://github.com/simulationlee/aiffel_exploration/assets/79844211/0760a275-3e25-48a0-9392-4b9a8954d723)
 
 - 위와 같이 변수 초기화를 통해 의도치 않은 동작이 일어날 수 있는 것을 방지 하셨습니다.
 - 이런 유용한 기능이 있는건 처음 알았습니다! 저도 테스트할 때 잘 활용 해봐야겠습니다
